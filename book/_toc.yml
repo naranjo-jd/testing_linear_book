@@ -1,0 +1,84 @@
+format: jb-book
+root: intro.md
+
+parts:
+
+  - caption: 0. Python
+    chapters:
+      - file: python/index.md
+        sections:
+          - file: python/fundamentos.ipynb
+          - file: python/operaciones_basicas.ipynb
+          - file: python/visualizacion_datos.ipynb
+          - file: python/numpy_intro.ipynb
+          - file: python/manejo_archivos.ipynb
+      - file: talleres/taller0(python_basico).ipynb
+
+  - caption: 1. Introducción a la estructura algebraica de R²
+    chapters:
+      - file: r2/index.md
+        sections:
+          - file: r2/teoria/espacios_vectoriales.ipynb
+          - file: r2/teoria/subespacios.ipynb
+          - file: r2/teoria/rectas_r2.ipynb
+      - file: r2/index_material.md
+        sections:
+          - file: r2/material/actividad_enganche.ipynb
+          - file: r2/material/quiz_conceptos.ipynb
+          - file: r2/material/ejercicios_computacionales.ipynb
+          - file: r2/material/ejercicios_teoricos.ipynb
+          - file: r2/material/actividad_computacional.ipynb
+          - file: r2/material/examen 
+
+  - caption: 2. Espacios vectoriales en R³
+    chapters:
+      - file: r3/index.md
+        sections:
+          - file: r3/combinaciones_lineales.ipynb
+      - file: r3/index_material.md
+        sections:
+          - file: r3/actividad_enganche.ipynb
+          - file: r3/quiz_conceptos.ipynb
+          - file: r3/ejercicios_computacionales.ipynb
+          - file: r3/ejercicios_teoricos.ipynb
+          - file: r3/actividad_computacional.ipynb
+
+  - caption: 3. Matrices y sistemas de ecuaciones
+    chapters:
+      - file: matrices/index.md
+        sections:
+          - file: matrices/matrices_2x2.ipynb
+          - file: matrices/matrices_3x3.ipynb
+          - file: matrices/matrices_nxn.ipynb
+          - file: matrices/aplicaciones.ipynb
+          - file: matrices/sistemas_homogeneos.ipynb
+          - file: matrices/sistemas_no_homogeneos.ipynb
+          - file: matrices/inversa_transpuesta.ipynb
+      - file: matrices/index_material.md
+        sections:
+          - file: matrices/actividad_enganche.ipynb
+          - file: matrices/quiz_conceptos.ipynb
+          - file: matrices/ejercicios_computacionales.ipynb
+          - file: matrices/ejercicios_teoricos.ipynb
+          - file: matrices/actividad_computacional.ipynb
+
+  - caption: 4. Determinantes y regla de Cramer
+    chapters:
+      - file: determinantes/index.md
+        sections:
+          - file: determinantes/concepto.ipynb
+          - file: determinantes/calculo.ipynb
+          - file: determinantes/regla_cramer.ipynb
+
+  - caption: 5. Espacio fila, espacio columna y dimensión
+    chapters:
+      - file: espacio_fila_columna/index.md
+        sections:
+          - file: espacio_fila_columna/espacio_fila.ipynb
+          - file: espacio_fila_columna/espacio_columna.ipynb
+
+  - caption: Referencias y créditos
+    chapters:
+      - file: references.md
+      - file: credits.md
+      - file: changelog.md

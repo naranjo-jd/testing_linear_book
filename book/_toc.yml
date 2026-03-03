@@ -77,6 +77,48 @@ parts:
         sections:
           - file: chapters/05-espacio_fila_columna/teoria/espacio_fila.ipynb
 
+  - caption: 6. Transformaciones lineales
+    chapters:
+      - file: chapters/06-transformaciones_lineales/index.md
+        sections:
+          - file: chapters/06-transformaciones_lineales/teoria/concepto.ipynb
+          - file: chapters/06-transformaciones_lineales/teoria/ejemplos.ipynb
+      - file: chapters/06-transformaciones_lineales/index_material.md
+        sections:
+          - file: chapters/06-transformaciones_lineales/material/actividad_enganche.ipynb
+          - file: chapters/06-transformaciones_lineales/material/quiz_conceptos.ipynb
+          - file: chapters/06-transformaciones_lineales/material/ejercicios_computacionales.ipynb
+          - file: chapters/06-transformaciones_lineales/material/ejercicios_teoricos.ipynb
+          - file: chapters/06-transformaciones_lineales/material/actividad_computacional.ipynb
+
+  - caption: 7. Cambios de base
+    chapters:
+      - file: chapters/07-cambios_de_base/index.md
+        sections:
+          - file: chapters/07-cambios_de_base/teoria/concepto.ipynb
+          - file: chapters/07-cambios_de_base/teoria/ejemplos.ipynb
+      - file: chapters/07-cambios_de_base/index_material.md
+        sections:
+          - file: chapters/07-cambios_de_base/material/actividad_enganche.ipynb
+          - file: chapters/07-cambios_de_base/material/quiz_conceptos.ipynb
+          - file: chapters/07-cambios_de_base/material/ejercicios_computacionales.ipynb
+          - file: chapters/07-cambios_de_base/material/ejercicios_teoricos.ipynb
+          - file: chapters/07-cambios_de_base/material/actividad_computacional.ipynb
+
+  - caption: 8. Autovalores y autovectores
+    chapters:
+      - file: chapters/08-autovalores_autovectores/index.md
+        sections:
+          - file: chapters/08-autovalores_autovectores/teoria/concepto.ipynb
+          - file: chapters/08-autovalores_autovectores/teoria/ejemplos.ipynb
+      - file: chapters/08-autovalores_autovectores/index_material.md
+        sections:
+          - file: chapters/08-autovalores_autovectores/material/actividad_enganche.ipynb
+          - file: chapters/08-autovalores_autovectores/material/quiz_conceptos.ipynb
+          - file: chapters/08-autovalores_autovectores/material/ejercicios_computacionales.ipynb
+          - file: chapters/08-autovalores_autovectores/material/ejercicios_teoricos.ipynb
+          - file: chapters/08-autovalores_autovectores/material/actividad_computacional.ipynb
+
   - caption: Referencias y créditos
     chapters:
       - file: references.md

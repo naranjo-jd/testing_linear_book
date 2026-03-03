@@ -16,34 +16,34 @@ parts:
 
   - caption: 1. Introducción a la estructura algebraica de R²
     chapters:
-      - file: chapters/01-r2/index.md
+      - file: chapters/01-espacios_vectoriales_r2/index.md
         sections:
-          - file: chapters/01-r2/teoria/espacios_vectoriales.ipynb
-          - file: chapters/01-r2/teoria/subespacios.ipynb
-          - file: chapters/01-r2/teoria/rectas_r2.ipynb
-      - file: chapters/01-r2/index_material.md
+          - file: chapters/01-espacios_vectoriales_r2/teoria/espacios_vectoriales.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/teoria/subespacios.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/teoria/rectas_r2.ipynb
+      - file: chapters/01-espacios_vectoriales_r2/index_material.md
         sections:
-          - file: chapters/01-r2/material/actividad_enganche.ipynb
-          - file: chapters/01-r2/material/quiz_conceptos.ipynb
-          - file: chapters/01-r2/material/quiz_algebra_general.ipynb
-          - file: chapters/01-r2/material/ejercicios_computacionales.ipynb
-          - file: chapters/01-r2/material/ejercicios_teoricos.ipynb
-          - file: chapters/01-r2/material/actividad_computacional.ipynb
-          - file: chapters/01-r2/material/examen 
+          - file: chapters/01-espacios_vectoriales_r2/material/actividad_enganche.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/material/quiz_conceptos.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/material/quiz_algebra_general.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/material/ejercicios_computacionales.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/material/ejercicios_teoricos.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/material/actividad_computacional.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/material/examen 
 
   - caption: 2. Espacios vectoriales en R³
     chapters:
-      - file: chapters/02-r3/index.md
+      - file: chapters/02-espacios_vectoriales_r3/index.md
         sections:
-          - file: chapters/02-r3/teoria/combinaciones_lineales.ipynb
-          - file: chapters/02-r3/teoria/independencia_lineal.ipynb
-      - file: chapters/02-r3/index_material.md
+          - file: chapters/02-espacios_vectoriales_r3/teoria/combinaciones_lineales.ipynb
+          - file: chapters/02-espacios_vectoriales_r3/teoria/independencia_lineal.ipynb
+      - file: chapters/02-espacios_vectoriales_r3/index_material.md
         sections:
-          - file: chapters/02-r3/material/actividad_enganche.ipynb
-          - file: chapters/02-r3/material/quiz_conceptos.ipynb
-          - file: chapters/02-r3/material/ejercicios_computacionales.ipynb
-          - file: chapters/02-r3/material/ejercicios_teoricos.ipynb
-          - file: chapters/02-r3/material/actividad_computacional.ipynb
+          - file: chapters/02-espacios_vectoriales_r3/material/actividad_enganche.ipynb
+          - file: chapters/02-espacios_vectoriales_r3/material/quiz_conceptos.ipynb
+          - file: chapters/02-espacios_vectoriales_r3/material/ejercicios_computacionales.ipynb
+          - file: chapters/02-espacios_vectoriales_r3/material/ejercicios_teoricos.ipynb
+          - file: chapters/02-espacios_vectoriales_r3/material/actividad_computacional.ipynb
 
   - caption: 3. Matrices y sistemas de ecuaciones
     chapters:

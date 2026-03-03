@@ -111,6 +111,14 @@ dmypy.json
 # Jupyter Book
 _build/
 .teachbooks/
+book/.jupyter_cache/
+
+# Accidental build artifacts
+np
+plt
+
+# Session files
+copilot_session.txt
 
 # poetry files
 pyproject.toml

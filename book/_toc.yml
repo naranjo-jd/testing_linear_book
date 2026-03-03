@@ -25,6 +25,7 @@ parts:
         sections:
           - file: chapters/01-r2/material/actividad_enganche.ipynb
           - file: chapters/01-r2/material/quiz_conceptos.ipynb
+          - file: chapters/01-r2/material/quiz_algebra_general.ipynb
           - file: chapters/01-r2/material/ejercicios_computacionales.ipynb
           - file: chapters/01-r2/material/ejercicios_teoricos.ipynb
           - file: chapters/01-r2/material/actividad_computacional.ipynb

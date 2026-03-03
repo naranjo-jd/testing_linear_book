@@ -56,6 +56,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+**/.ipynb_checkpoints
 
 # IPython
 profile_default/
@@ -122,3 +123,7 @@ copilot_session.txt
 
 # poetry files
 pyproject.toml
+
+# OS files
+.DS_Store
+Thumbs.db

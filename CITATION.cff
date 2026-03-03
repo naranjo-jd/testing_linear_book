@@ -4,12 +4,18 @@
 cff-version: 1.2.0
 title: 'Álgebra Lineal'
 authors:
+- email: abel.alvarez@javerianacali.edu.co
+  name: 'Abel Alvarez'
+contributors:
 - email: juand8@javerianacali.edu.co
   name: 'Juan Diego Naranjo'
 message: 'If you use this teachbook, please cite it using these metadata.'
 preferred-citation:
   type: book
   authors:
+  - email: abel.alvarez@javerianacali.edu.co
+    name: 'Abel Alvarez'
+  contributors:
   - email: juand8@javerianacali.edu.co
     name: 'Juan Diego Naranjo'
   url: 'https://naranjo-jd.github.io/testing_linear_book/'
@@ -32,9 +38,9 @@ preferred-citation:
   title: 'Álgebra Lineal'
   license: CC-BY-4.0
   license-url: 'https://creativecommons.org/licenses/by/4.0/'
-  copyright: '© 2025 Juan Diego Naranjo'
+  copyright: '© 2025 Abel Alvarez'
   languages:
     - es
   contact:
-  - email: juand8@javerianacali.edu.co
-    name: 'Juan Diego Naranjo'
+  - email: abel.alvarez@javerianacali.edu.co
+    name: 'Abel Alvarez'

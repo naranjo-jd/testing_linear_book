@@ -1,2 +1,0 @@
-## comentarios sobre borrador
-thebe-remove-input-init 

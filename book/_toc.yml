@@ -12,7 +12,6 @@ parts:
           - file: chapters/00-python/teoria/visualizacion_datos.ipynb
           - file: chapters/00-python/teoria/numpy_intro.ipynb
           - file: chapters/00-python/teoria/manejo_archivos.ipynb
-      - file: talleres/taller0(python_basico).ipynb
 
   - caption: 1. Introducción a la estructura algebraica de R²
     chapters:
@@ -29,7 +28,7 @@ parts:
           - file: chapters/01-espacios_vectoriales_r2/material/ejercicios_computacionales.ipynb
           - file: chapters/01-espacios_vectoriales_r2/material/ejercicios_teoricos.ipynb
           - file: chapters/01-espacios_vectoriales_r2/material/actividad_computacional.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/material/examen 
+          - file: chapters/01-espacios_vectoriales_r2/material/examen.ipynb
 
   - caption: 2. Espacios vectoriales en R³
     chapters:

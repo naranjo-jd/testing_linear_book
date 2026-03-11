@@ -114,6 +114,9 @@ _build/
 .teachbooks/
 book/.jupyter_cache/
 
+# Trash/draft content
+book/trash/
+
 # Accidental build artifacts
 np
 plt

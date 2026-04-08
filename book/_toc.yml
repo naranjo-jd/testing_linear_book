@@ -17,18 +17,15 @@ parts:
     chapters:
       - file: chapters/01-espacios_vectoriales_r2/index.md
         sections:
-          - file: chapters/01-espacios_vectoriales_r2/teoria/espacios_vectoriales.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/teoria/subespacios.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/teoria/rectas_r2.ipynb
-      - file: chapters/01-espacios_vectoriales_r2/index_material.md
-        sections:
-          - file: chapters/01-espacios_vectoriales_r2/material/actividad_enganche.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/material/quiz_conceptos.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/material/quiz_algebra_general.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/material/ejercicios_computacionales.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/material/ejercicios_teoricos.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/material/actividad_computacional.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/material/examen.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/01_vectores.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/02_operaciones.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/03_combinaciones_lineales.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/04_independencia_lineal.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/05_subespacios.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/06_rectas.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/07_producto_punto.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/08_ejercicios_capitulo.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/09_examen.ipynb
 
   - caption: 2. Espacios vectoriales en R³
     chapters:

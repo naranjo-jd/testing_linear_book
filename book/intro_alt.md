@@ -8,9 +8,9 @@ Esta plataforma ha sido diseñada para **aprender, explorar y aplicar** los conc
 
 - **Teoría**: se presentan las definiciones y teoremas fundamentales del álgebra lineal, haciendo énfasis en una interpretación geométrica de los métodos y objetos estudiados.
 
-- **Ejemplos**: se exponen aplicaciones concretas de las ideas desarrollados a lo largo del libro. Estos ejemplos estarán, en cuanto sea razonable, relacionados con el área de la computación.
+- **Ejemplos**: se exponen aplicaciones concretas de las ideas desarrolladas a lo largo del libro. Estos ejemplos estarán, en cuanto sea razonable, relacionados con el área de la computación.
 
-- **Práctica**: pruebas de comprensión, preguntas de respuesta múltiple, còdigo interactivo y más actividades donde aplicará lo aprendido en cada sección.
+- **Práctica**: pruebas de comprensión, preguntas de respuesta múltiple, código interactivo y más actividades donde aplicará lo aprendido en cada sección.
 
 ---
 

@@ -11,6 +11,13 @@ Comprender las propiedades y operaciones del plano $\mathbb{R}^2$ para identific
 
 ---
 
+:::{admonition} Código interactivo
+:class: tip
+Este capítulo incluye **visualizaciones y ejercicios interactivos**. Para activarlos, haz clic en el botón de cohete en la parte superior derecha y selecciona **"Live Code"**. Espera unos segundos mientras se inicia el entorno de Python.
+:::
+
+---
+
 ##  Contenidos
 
 Este capítulo te guiará a través de los conceptos fundamentales del álgebra lineal en dos dimensiones:

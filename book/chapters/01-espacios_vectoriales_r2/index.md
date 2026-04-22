@@ -46,6 +46,9 @@ El producto escalar te permite medir ángulos entre vectores, definir ortogonali
 ###  8. Ejercicios del Capítulo
 Una colección completa de problemas teóricos, computacionales y de aplicación que integran todos los conceptos del capítulo.
 
+###  9. Examen del Capítulo
+Una evaluación integradora para comprobar tu dominio de los conceptos centrales: operaciones vectoriales, combinaciones lineales, independencia, subespacios, rectas y producto punto.
+
 ---
 
 ##  Reflexión

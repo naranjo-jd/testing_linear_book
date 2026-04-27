@@ -89,6 +89,17 @@ When creating or restructuring chapter content, follow the **Chapter 01 template
 - **Cross-references**: Relative markdown links
 - **No emojis** in chapter content
 
+### Chapter Numbering Structure (Template Chapters)
+
+- For template chapters, use explicit hierarchical numbering in notebook headings.
+- Notebook title (`#`) format: `C.S Título` (for example `# 1.3 Combinaciones Lineales`), where:
+  - `C` = chapter number
+  - `S` = section (notebook) number in that chapter
+- Main in-notebook sections (`##`) format: `C.S.N. Título` (for example `## 1.3.4. Generado (Span)`), where:
+  - `N` = section item number within the notebook
+- Nested subsections (`###`) should continue the hierarchy when numbered (for example `### 1.6.4.1 ...`).
+- Keep numbering consistent across all notebooks in a chapter and align chapter `index.md` contents with `_toc.yml`.
+
 ### File Naming
 
 - Notebook files: `snake_case.ipynb`

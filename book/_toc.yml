@@ -13,7 +13,7 @@ parts:
           - file: chapters/00-python/teoria/numpy_intro.ipynb
           - file: chapters/00-python/teoria/manejo_archivos.ipynb
 
-  - caption: 1. Introducción a la estructura algebraica de R²
+  - caption: 1. El Plano $\mathbb{R}^2$
     chapters:
       - file: chapters/01-espacios_vectoriales_r2/index.md
         sections:
@@ -24,8 +24,9 @@ parts:
           - file: chapters/01-espacios_vectoriales_r2/05_subespacios.ipynb
           - file: chapters/01-espacios_vectoriales_r2/06_rectas.ipynb
           - file: chapters/01-espacios_vectoriales_r2/07_producto_punto.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/08_ejercicios_capitulo.ipynb
-          - file: chapters/01-espacios_vectoriales_r2/09_examen.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/08_resumen_ideas_clave.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/09_ejercicios_capitulo.ipynb
+          - file: chapters/01-espacios_vectoriales_r2/10_examen.ipynb
 
   - caption: 2. Espacios vectoriales en R³
     chapters:

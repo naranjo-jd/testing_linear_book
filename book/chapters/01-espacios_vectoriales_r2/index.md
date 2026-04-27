@@ -1,4 +1,4 @@
-#  Capítulo 1: El plano $\mathbb{R}^2$
+#  Capítulo 1: El Plano $\mathbb{R}^2$
 
 El plano $\mathbb{R}^2$ es el punto de partida del **álgebra lineal** y de gran parte de la **geometría analítica**.  
 Aquí aprenderás a representar y operar con **vectores y puntos** en dos dimensiones, a interpretar **rectas y combinaciones lineales**, y a desarrollar una **intuición visual** sobre los conceptos fundamentales del espacio vectorial.
@@ -43,17 +43,14 @@ Analizarás las rectas desde múltiples perspectivas: forma paramétrica, cartes
 ###  7. Producto Punto
 El producto escalar te permite medir ángulos entre vectores, definir ortogonalidad, y calcular proyecciones. Una herramienta fundamental con aplicaciones en física y geometría.
 
-###  8. Ejercicios del Capítulo
+###  8. Resumen e ideas clave
+Una síntesis de los conceptos centrales del capítulo, con conexiones entre vectores, combinaciones lineales, independencia, subespacios, rectas y producto punto.
+
+###  9. Ejercicios del Capítulo
 Una colección completa de problemas teóricos, computacionales y de aplicación que integran todos los conceptos del capítulo.
 
----
-
-##  Reflexión
-
-Trabajar en $\mathbb{R}^2$ permite **visualizar** los conceptos abstractos del álgebra lineal y construir una comprensión sólida que se extenderá naturalmente a espacios de mayor dimensión, como $\mathbb{R}^3$ y $\mathbb{R}^n$.
-
-> "Ver el álgebra lineal en el plano es como mirar la raíz de un árbol:  
-> de allí crecen todas las ramas del pensamiento vectorial."
+###  10. Examen de la sección
+Una evaluación integradora para comprobar comprensión conceptual, habilidad de cálculo y modelación en $\mathbb{R}^2$.
 
 ---
 
